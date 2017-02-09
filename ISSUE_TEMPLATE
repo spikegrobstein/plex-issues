@@ -4,3 +4,5 @@ Please adhere to the following flow:
 2. tag with the type of media (`tv` or `movie`)
 3. tag with the type of issue (eg: `mislabeled`)
 4. add a brief description of the issue in the body
+
+(you may not have access to add labels, in that case, just describe the issue in the body of the issue)
